@@ -1,5 +1,5 @@
-# PCA
-O PCA com diversas aplicações práticas, pode ser usado em qualquer empresa ou organização. O marketing, em particular, já aproveita seus benefícios, principalmente na segmentação de clientes, usuários e fornecedores.
-Imagine uma empresa lançando um novo produto e buscando entender as necessidades dos clientes por meio de pesquisas extensas. PCA entra em cena para simplificar a análise dos dados e agrupar segmentos semelhantes, permitindo direcionar campanhas de marketing de forma eficaz.
-Esse método não se limita ao marketing e pode ser aplicado em diversos setores da economia. A redução da dimensionalidade dos dados oferece uma compreensão mais clara e facilita a análise de agrupamentos (clusterização).
-Com essa abordagem, a tomada de decisões e a identificação de oportunidades se tornam mais precisas e estratégicas. Portanto, o PCA é uma valiosa ferramenta para impulsionar o sucesso de qualquer negócio!
+#Análise de Segmentação de Clientes com PCA e Clusterização
+Análise de Segmentação de Clientes com PCA e Clusterização
+Para facilitar a interpretação dos grupos aglomerados, reduzimos a dimensionalidade do questionário antes de realizar a clusterização. Em vez de trabalharmos com as 30 variáveis originais, utilizamos os componentes principais derivados do PCA. Com isso, agora temos apenas 5 variáveis que capturam as principais dimensões das respostas dos clientes.
+Essa abordagem torna o processo de clusterização muito mais compreensível, permitindo uma análise mais clara e objetiva dos grupos formados. Ao utilizar os componentes principais, conseguimos resumir as informações essenciais do questionário, tornando mais fácil identificar perfis de clientes e suas preferências.
+Dessa forma, a combinação do PCA com a clusterização nos proporciona uma visão mais aprofundada e significativa dos segmentos de clientes, contribuindo para o sucesso de qualquer negócio.
